@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="anubis_google_drive_adapters",
-    version="0.0.2",
+    version="0.0.3",
     author="Jose Manuel Herera Saenz",
     author_email="incubadoradepollos@gmail.com",
     description="Google gemini adapters and similars for anubis systems",
